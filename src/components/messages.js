@@ -9,7 +9,7 @@ class Messages extends Component {
 
   state = { messages: [] }
   componentDidMount = () => {
-    fetch("https://kwitter-api.herokuapp.com/messages",
+    fetch("https://intense-dusk-76045.herokuapp.com/messages",
       {
         method: 'GET',
         headers: {
@@ -31,7 +31,7 @@ class Messages extends Component {
         this.setState({ photos })
       });
 
-      fetch("https://kwitter-api.herokuapp.com/users", 
+      fetch("https://intense-dusk-76045.herokuapp.com/users", 
       {
         method: 'GET',
         headers: {

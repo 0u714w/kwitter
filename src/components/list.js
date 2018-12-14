@@ -10,7 +10,7 @@ class List extends React.Component {
   state = { users: [] }
 
   componentDidMount() {
-    fetch("https://kwitter-api.herokuapp.com/users", 
+    fetch("https://intense-dusk-76045.herokuapp.com/users", 
       {
         method: 'GET',
         headers: {
