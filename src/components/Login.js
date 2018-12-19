@@ -51,7 +51,7 @@ class Login extends Component {
         <div>
           <Message className="message">
             Not a member?
-            <Link className="link" to="/register" onClick={this.handleRegisterLink}>
+            <Link className="link" to="/register">
               {" "}
               Sign up
             </Link>
