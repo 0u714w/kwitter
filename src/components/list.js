@@ -91,6 +91,9 @@ class List extends React.Component {
               <div>
                 <p className="userId"> User: {this.props.userId} </p>
               </div>
+              <div>
+                <p className="messageId"> Message: {this.props.messageId} </p>
+              </div>
               <div className="extra text">{this.props.text}</div>
               <div className="meta">
                 <button className="like" type="submit" onClick={likeTweet}>

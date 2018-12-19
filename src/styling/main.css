@@ -351,3 +351,7 @@ li {
 .userId {
     color: #A00099; 
 }
+
+.messageId {
+    color: lightblue;
+}
