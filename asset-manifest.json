@@ -1,15 +1,15 @@
 {
-  "main.css": "/kwitter/static/css/main.98b5f7b8.chunk.css",
-  "main.js": "/kwitter/static/js/main.b2db132a.chunk.js",
-  "main.js.map": "/kwitter/static/js/main.b2db132a.chunk.js.map",
+  "main.css": "/kwitter/static/css/main.7165e95f.chunk.css",
+  "main.js": "/kwitter/static/js/main.121e3a36.chunk.js",
+  "main.js.map": "/kwitter/static/js/main.121e3a36.chunk.js.map",
   "static/js/1.19a23730.chunk.js": "/kwitter/static/js/1.19a23730.chunk.js",
   "static/js/1.19a23730.chunk.js.map": "/kwitter/static/js/1.19a23730.chunk.js.map",
   "runtime~main.js": "/kwitter/static/js/runtime~main.1bef2d23.js",
   "runtime~main.js.map": "/kwitter/static/js/runtime~main.1bef2d23.js.map",
-  "static/css/main.98b5f7b8.chunk.css.map": "/kwitter/static/css/main.98b5f7b8.chunk.css.map",
+  "static/css/main.7165e95f.chunk.css.map": "/kwitter/static/css/main.7165e95f.chunk.css.map",
   "static/media/octo1.gif": "/kwitter/static/media/octo1.ea815713.gif",
   "static/media/octo1.png": "/kwitter/static/media/octo1.a9d2acdf.png",
   "index.html": "/kwitter/index.html",
-  "precache-manifest.5d59b7b7873839ada8816a294709180f.js": "/kwitter/precache-manifest.5d59b7b7873839ada8816a294709180f.js",
+  "precache-manifest.d9e0c14007ac419946eb088280b93595.js": "/kwitter/precache-manifest.d9e0c14007ac419946eb088280b93595.js",
   "service-worker.js": "/kwitter/service-worker.js"
 }
